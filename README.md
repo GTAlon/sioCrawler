@@ -22,7 +22,7 @@ Le developpement tourne autour de 3 grandes parties :
 ## L'inscription en ligne. ##
 
 Site web permettant à un joueur de s'inscrire en ligne le projet prévoit le principe suivant pour l'inscription en ligne
-![acteurFluxInscription.png](C:\tuto git\git_GerrylMerge)
-![](useCasePersonnage.png)
-![](mcdSauvegarde.png)
-![](diagrammeClassePersonnage.png)
+![](https://github.com/GTAlon/sioCrawler/blob/master/acteurFluxInscription.PNG)
+![](https://github.com/GTAlon/sioCrawler/blob/master/useCasePersonnage.PNG)
+![](https://github.com/GTAlon/sioCrawler/blob/master/mcdSauvegarde.PNG)
+![](https://github.com/GTAlon/sioCrawler/blob/master/diagrammeClassePersonnage.PNG)
