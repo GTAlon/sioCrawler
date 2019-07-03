@@ -23,6 +23,14 @@ Le developpement tourne autour de 3 grandes parties :
 
 Site web permettant à un joueur de s'inscrire en ligne le projet prévoit le principe suivant pour l'inscription en ligne
 ![](https://github.com/GTAlon/sioCrawler/blob/master/acteurFluxInscription.PNG)
+## Sio crawler le jeu ##
+-------------------------
+
+le joueur possèdera les fonctionnalités suivantes.
 ![](https://github.com/GTAlon/sioCrawler/blob/master/useCasePersonnage.PNG)
+les classes développées.
 ![](https://github.com/GTAlon/sioCrawler/blob/master/mcdSauvegarde.PNG)
+## Sauvegarde du contexte ##
+--------------------------
+La sauvegarde du contexte se fera dans la base de données.
 ![](https://github.com/GTAlon/sioCrawler/blob/master/diagrammeClassePersonnage.PNG)
